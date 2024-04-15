@@ -19,11 +19,17 @@ Python, Ruby, Javascript, Elixir, SQL.
 ## 🚀 Preferencias
 
 Scripts -> Ruby
+
 Análisis -> Python
+
 Desarrollo Web -> React, Nextjs
+
 Base de datos -> MongoDB
+
 Red Social -> X
+
 Juego favorito -> 7kaa
+
 Editor de código -> Code
 
 ## 🔗 Links
