@@ -1,32 +1,33 @@
-<h1 style="color: red;">¡Mi proyecto increíble!</h1>
-¡Hola a todos! En este entorno soy @vormentz, un desarrollador en constante evolución y estoy buscando nuevos desafíos y colaboraciones.
-Si te gusta mucho la tecnología como a mi, se podría decir que estamos en el mismo equipo!
 
-Soy un apasionado del aprendizaje continuo. Siempre estoy buscando nuevas habilidades para agregar a mi arsenal.
-Me encanta resolver problemas de forma creativa. Utilizo mi ingenio y mi conocimiento de programación para encontrar soluciones innovadoras.
-Soy un jugador de equipo. Me encanta colaborar con otros desarrolladores para crear cosas increíbles.
+# Hi, I'm vormentz! 👋
 
-Lenguajes de programación: Ruby (en constante aprendizaje), Python, Javascript y SQL.
-Ciberseguridad: Interesado en profundizar en este campo.
-Desarrollo de software: Experiencia en desarrollo de software y resolución creativa de problemas a través del código.
-
-Convertirme en un programador experimentado y contribuir al desarrollo de software de código abierto.
-Conectar con otros desarrolladores y aficionados a la tecnología para compartir conocimientos y experiencias.
-Aprender lo máximo posible sobre el mundo de la tecnología y compartir mis conocimientos con los demás.
-
-Ampliando mis conocimientos en Python, Javascript y SQL.
-Explorando el fascinante mundo de la ciberseguridad. ️‍♂️
-Buscando oportunidades para colaborar en proyectos de código abierto.
-Más allá del código:
-
-Disfruto de... (completa esta sección con tus aficiones e intereses).
-Soy una persona curiosa y siempre estoy buscando nuevas experiencias.
-Me encanta conocer gente nueva y aprender sobre sus culturas.
-¡Contáctame!
-
-GitHub: https://github.com/THUDM/CogAgent
-(Agrega otros enlaces relevantes, como tu perfil de LinkedIn o portafolio).
-¡Estoy ansioso por conectar y colaborar con la comunidad de desarrolladores!
+Soy developer y aprediz de seguridad informática
 
 
-[![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity-Enthusiast-brightgreen.svg)](https://www.owasp.org/)
+## Algo sobre mi..
+👩‍💻 Actualmente trabajo en mejorar mis habilidades de programación
+
+🧠 Estoy aprendiendo ciberseguridad en un bootcamp
+
+👯‍♀️ Me gustaría participar en el desarrollo de las aplicaciones de codigo abierto
+
+
+📫 Puedes encontrarme en las redes que comparto lineas abajo
+
+
+⚡️ Me divierte ver series de ciencia ficción, escuchar música antigua y jugar videojuegos de estrategia
+
+
+## 🛠 Skills
+Python, Ruby, Javascript, Elixir, C++.
+
+
+## 🚀 Acerca de mi
+Soy desarrollador desde hace 2 años, tengo como objetivo 
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://gitlab.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
