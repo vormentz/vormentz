@@ -6,8 +6,11 @@ Me apasiona la tecnología y la seguridad informática.
 
 ## Sobre mi..
 🧠 Actualmente estudio seguridad informática.
+
 👩‍💻 Estoy trabajando en un proyecto de inteligencia artificial.
+
 👯‍♀️ Quiero colaborar en el desarrollo de software de codigo abierto.
+
 ⚡️ Me divierten las series de ciencia ficción, escuchar música antigua y jugar videojuegos de estrategia.
 
 ## 🛠 Skills
